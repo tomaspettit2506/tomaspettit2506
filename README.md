@@ -44,6 +44,16 @@ A web application for playing chess online, built as my Final Year Project. The 
 - LaTeX
 
 ---
+## GitHub ML Revision Exam
+- [ML Revision Exam](https://github.com/tomaspettit2506/ML_Revision_Exam)
+
+## NoteBookLM Revision
+- [Machine Learning Technologies Revision Exam](https://notebooklm.google.com/notebook/a2378940-5796-4654-b65a-8735997ec560)
+- [Software Engineering Lecture Notes](https://notebooklm.google.com/notebook/b78006b9-229a-4d5f-a709-b66e46a0750b)
+- [Software Engineering Written Exam Solution](https://notebooklm.google.com/notebook/59d528b7-8fcd-47d0-bb8b-9f112c88e654)
+
+## Discord ML Sample Exam Solution
+- [ML Sample Exam Solution](https://discord.com/channels/892701210258321448/1021247041638240299/1495185319228604416)
 
 ## Social
 - Instagram: https://www.instagram.com/accounts/onetap/
