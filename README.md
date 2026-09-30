@@ -49,4 +49,4 @@ A web application for playing chess online, built as my Final Year Project. The 
 - Instagram: https://www.instagram.com/accounts/onetap/
 
 ## ATU Galway Graduation 2026
-- [Galway Mayo Conferring](atu.ie/student-life/conferring/galway-mayo-conferring%23atu-galway-and-mountbellew-campuses)
+- **Galway Mayo Conferring:** atu.ie/student-life/conferring/galway-mayo-conferring%23atu-galway-and-mountbellew-campuses
