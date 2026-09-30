@@ -48,4 +48,5 @@ A web application for playing chess online, built as my Final Year Project. The 
 ## Social
 - Instagram: https://www.instagram.com/accounts/onetap/
 
-> If you want, I can add badges for each section above and a short "How to run locally" section once your project structure is final.
+## ATU Galway Graduation 2026
+- [Galway Mayo Conferring](atu.ie/student-life/conferring/galway-mayo-conferring%23atu-galway-and-mountbellew-campuses)
